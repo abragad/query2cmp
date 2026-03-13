@@ -1,0 +1,6 @@
+mcp>=1.26.0
+openai>=2.0.0
+python-dotenv>=1.0.0
+
+# Optional: Apple on-device Foundation Model (macOS 26+, Apple Silicon)
+# apple-fm-sdk>=0.1.0
